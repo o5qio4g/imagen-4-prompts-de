@@ -101,6 +101,17 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [imagen-4-api-de](https://github.com/o5qio4g/imagen-4-api-de)
+- **Same model, other languages** — 9 more language builds: 中文 `imagen-4-api-cn` · Español `imagen-4-api-es` · Français `imagen-4-api-fr` · Relay/gateway `imagen-4-api-gateway` · Bahasa [imagen-4-api-id](https://github.com/sxebfo9y3nl/imagen-4-api-id) · 日本語 [imagen-4-api-ja](https://github.com/oihnxor9/imagen-4-api-ja) · 한국어 [imagen-4-api-ko](https://github.com/dkt4c5gv9mr/imagen-4-api-ko) · Português [imagen-4-api-pt](https://github.com/o96wzy7/imagen-4-api-pt) · Русский `imagen-4-api-ru`
+- **More models in this language** — [midjourney-api-de](https://github.com/h5fd0cofy/midjourney-api-de) · [gemini-2-5-flash-image-preview-api-de](https://github.com/kn6f69s2b8j9/gemini-2-5-flash-image-preview-api-de) · [nano-banana-api-de](https://github.com/uh6cob8op/nano-banana-api-de) · [gemini-3-1-flash-image-preview-api-de](https://github.com/k8wq8pd46e5ku/gemini-3-1-flash-image-preview-api-de) · [nano-banana-2-api-de](https://github.com/mocpl3/nano-banana-2-api-de) · [gemini-3-pro-image-preview-api-de](https://github.com/cmpxx2w/gemini-3-pro-image-preview-api-de)
+- **Topic hubs** — every build of this model, all languages: [imagen-4](https://github.com/topics/imagen-4) · [imagen-4-api](https://github.com/topics/imagen-4-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
